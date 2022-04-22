@@ -1,0 +1,14 @@
+GET http://uptopoint.sigtech.co.uk/api/app/location/fetch
+
+####
+POST http://localhost:3000/api/users
+
+{
+    "id":401,
+    "firstname":"admin1",
+    "lastname":"admin",
+    "email":"admin@gmail.com",
+    "password":"admin@123",
+    "telephone":"7788996655",
+    "accessLevel":1
+}
